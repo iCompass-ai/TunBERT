@@ -91,7 +91,7 @@ We use:
 
 ```shell script
 # Clone the repo
-git clone https://github.com/instadeepai/tunbert.git
+git clone https://github.com/iCompass-ai/tunbert.git
 cd tunbert
 
 # Create a conda env
@@ -181,14 +181,6 @@ You can view the results, by launching tensorboard from your logging directory.
 
 e.g. `tensorboard --logdir=OUTPUT_<task>_FOLDER_NAME`
 # Contact information
-InstaDeep
-
-* Website: https://instadeep.com
-
-* Twitter: @instadeepai
-
-* Email: hello@instadeep.com
-
 
 iCompass
 
@@ -197,3 +189,12 @@ iCompass
 * Twitter: @iCompass_
 
 * Email: team@icompass.digital
+
+
+InstaDeep
+
+* Website: https://instadeep.com
+
+* Twitter: @instadeepai
+
+* Email: hello@instadeep.com
