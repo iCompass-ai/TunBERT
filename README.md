@@ -180,6 +180,18 @@ bash models/bert-google/finetuning_squad.sh
 You can view the results, by launching tensorboard from your logging directory.
 
 e.g. `tensorboard --logdir=OUTPUT_<task>_FOLDER_NAME`
+
+Find more about Tunbert in this paper: https://arxiv.org/abs/2111.13138
+
+@misc{tunbert,
+      title={TunBERT: Pretrained Contextualized Text Representation for Tunisian Dialect}, 
+      author={Abir Messaoudi and Ahmed Cheikhrouhou and Hatem Haddad and Nourchene Ferchichi and Moez BenHajhmida and Abir Korched and Malek Naski and Faten Ghriss and Amine Kerkeni},
+      year={2021},
+      eprint={2111.13138},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
 # Contact information
 
 iCompass
@@ -198,3 +210,4 @@ InstaDeep
 * Twitter: @instadeepai
 
 * Email: hello@instadeep.com
+
